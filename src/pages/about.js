@@ -73,7 +73,7 @@ class About extends React.Component {
               in 2019.
             </AboutContent>
             <AboutContent>
-              During my undergraduate education, I have gone abroad for studying and internship.
+              During my undergraduate education I have gone abroad for studying and internship.
               I have been Czechia as Erasmus Exchange Student in{" "}
               <MiscLinks href="http://www.vstecb.cz/en/" target="_blank">
               VSTE
